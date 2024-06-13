@@ -12,7 +12,7 @@ This object must contain the following required parameters:
 
 - `projectId`  (String) — a project identifier 
 - `orderId`  (String) — a payment identifier unique within the project
-- `paymentCurrency`  (String) — the payment currency code in the ISO 4217 alpha-3 format
+- `currency`  (String) — the payment currency code in the ISO 4217 alpha-3 format
 - `amount`  (int) — the payment amount in the smallest currency units
 - `currency`  (String) — a customer's identifier within the project
 
