@@ -1,3 +1,6 @@
+[![Download](https://maven-badges.herokuapp.com/maven-central/kg.flashpay/msdk-android/badge.svg) ](https://maven-badges.herokuapp.com/maven-central/kg.flashpay/msdk-android/badge.svg)
+
+
 # FlashPay MSDK
 
 To open the payment form:
