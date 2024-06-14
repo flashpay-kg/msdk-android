@@ -1,5 +1,4 @@
-[![Download](https://maven-badges.herokuapp.com/maven-central/kg.flashpay/msdk-android/badge.svg) ](https://maven-badges.herokuapp.com/maven-central/kg.flashpay/msdk-android/badge.svg)
-
+![Maven Central Version](https://img.shields.io/maven-central/v/kg.flashpay/msdk-android)
 
 # FlashPay MSDK
 
