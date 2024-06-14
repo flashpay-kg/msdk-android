@@ -13,7 +13,6 @@ This object must contain the following required parameters:
 - `orderId`  (String) — a payment identifier unique within the project
 - `currency`  (String) — the payment currency code in the ISO 4217 alpha-3 format
 - `amount`  (int) — the payment amount in the smallest currency units
-- `currency`  (String) — a customer's identifier within the project
 
 ```
 val paymentOptions = SDKPaymentOptions(
